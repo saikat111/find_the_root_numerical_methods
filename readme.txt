@@ -1,1 +1,1 @@
-This codes are for find the root of a equation using Bisection , false positon method
+This codes are for find the root of a equation using Bisection method  , false positon method , newton Rapshon method  , secant method 
